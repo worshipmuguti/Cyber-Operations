@@ -1,0 +1,1 @@
+This report evaluates addresses operating system vulnerabilities, the spectrum of cyber operations, infrastructure management strategies, and the critical legal and ethical obligations the organisation must have.
